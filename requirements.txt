@@ -1,0 +1,17 @@
+django
+requests
+pillow
+djangorestframework
+django-cors-headers
+openai
+langchain
+faiss
+openai
+urllib3
+django-channels
+PyPDF2
+gpt_index
+PyCryptodome
+unstructured
+unstructured[local-inference]
+faiss-cpu
